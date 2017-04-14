@@ -1,37 +1,37 @@
-BeazleyNumber,MuseumID,shape,findspot,comments
-1(1), , Amphora, Vulci, Depicts Achilles and Woman
-2(2), Cab. Méd. 357, Pointed Amphora, , Depicts Dionysos maenads satyrs
-3(3), , Panathenaic Amphora, Villa Giullia, Apollo & Nike
-4(4), Cab. Méd 372, Neck-Amphora, Vulci, Euphorbos with infant Oedipus and Man separate fragment from Reggio?
-5(5), , Neck-Amphora, Vulci, Eo accruying Kephalos; old man
-6(a), New York 25.189.2, Neck-Amphora, Gela, Eos Tithonos; man
-7(6), Naples 3068, Neck-Amphora, Nola, Woman fleeing; youth
-8(7), Leningrad 703 (St. 1534), Neck-Amphora, ,Woman fleeing; Youth
-9(8), Chicago 89.17, Neck-Amphora, Nola, Woman running with shield and spear; man
-10(9), Vienna 696, Neck-Amphora, , Eos and Kephalos; youth
-11(14), Cab. Méd 363, Neck-Amphora, Nola, Poseidon; Greek lettering
-12(10), Berlin inv. 3759, Neck-Amphora, Nola, Eos and Kephalos; youth
-13(11), Rogers 489, Neck-Amphora, , Woman running with oinochoe and phiale; woman
-14(12), Madrid 11107 (L. 183), Neck-Amphora, , Youth with spears running; woman
-15(13), London E 300, Neck-Amphora, Nola, Horseman; woman
-16, Naples Museo Filangieri 1721, Neck-Amphora, , Horseman; man
-17(15), Naples 3093, Neck-Amphora, Nola, Triptolemos; woman with oinochoe (Demeter or Persephone)
-18(16), Leningrad 713 (St. 1536), Neck-Amphora, , Nereid helmet of Achilles riding dolphin; youth
-19(17), Leyden K 94.1.8 (xhviii h 41), Neck-Amphora, Chiusi, Eos; youth
-20(18), Berlin 2332, Neck-Amphora, Nola, Warrior setting out; man
+BeazleyNumber,MuseumID,shape,findspot,comments, Pleiades ID
+1(1), , Amphora, Vulci, Depicts Achilles and Woman, 413393
+2(2), Cab. Méd. 357, Pointed Amphora, , Depicts Dionysos maenads satyrs,
+3(3), , Panathenaic Amphora, , Apollo & Nike,
+4(4), Cab. Méd 372, Neck-Amphora, Vulci, Euphorbos with infant Oedipus and Man separate fragment from Reggio?, 413393
+5(5), , Neck-Amphora, Vulci, Eo accruying Kephalos; old man, 413393
+6(a), New York 25.189.2, Neck-Amphora, Gela, Eos Tithonos; man, 884884
+7(6), Naples 3068, Neck-Amphora, Nola, Woman fleeing; youth, 432981
+8(7), Leningrad 703 (St. 1534), Neck-Amphora, ,Woman fleeing; Youth,
+9(8), Chicago 89.17, Neck-Amphora, Nola, Woman running with shield and spear; man, 432981
+10(9), Vienna 696, Neck-Amphora, , Eos and Kephalos; youth,
+11(14), Cab. Méd 363, Neck-Amphora, Nola, Poseidon; Greek lettering, 432981
+12(10), Berlin inv. 3759, Neck-Amphora, Nola, Eos and Kephalos; youth, 432981
+13(11), Rogers 489, Neck-Amphora, , Woman running with oinochoe and phiale; woman,
+14(12), Madrid 11107 (L. 183), Neck-Amphora, , Youth with spears running; woman,
+15(13), London E 300, Neck-Amphora, Nola, Horseman; woman, 432981
+16, Naples Museo Filangieri 1721, Neck-Amphora, , Horseman; man,
+17(15), Naples 3093, Neck-Amphora, Nola, Triptolemos; woman with oinochoe (Demeter or Persephone), 432981
+18(16), Leningrad 713 (St. 1536), Neck-Amphora, , Nereid helmet of Achilles riding dolphin; youth,
+19(17), Leyden K 94.1.8 (xhviii h 41), Neck-Amphora, Chiusi, Eos; youth, 413096
+20(18), Berlin 2332, Neck-Amphora, Nola, Warrior setting out; man, 432981
 21, Naples (ex Spinelli), Neck-Amphora, Suessula, youth in chitoniskos frontal head to right with spear + woman to left holding helmet and shield; man to left with stick
-22, Lucerne Market, Neck-Amphora, , Eos and Kephalos; youth
-23(19), New York 12.236.2, Neck-Amphora, , Eos and Tithonos; youth
-24(20), New York 12.236.1, Neck-Amphora, , Athena and woman; youth
-25(21), Berlin 2347, Neck-Amphora, Nola, Europa; man
-26(22), Boston 06.2447, Neck-Amphora, , Oedipus and the Sphinx; youth
-27(23), Munich S.L. 474, Neck-Amphora, , Oedipus and the Sphinx; man
-28(24), Dresden 308, Neck-Amphora, Nola, Zeus pursuing a woman; man
-29(25), Paris Paravey 43, Neck-Amphora, Nola, Zeus pursuing a woman; man
-30(26), Berlin 2346, Neck-Amphora, Nola, youth with spear pursuing a woman; man
-31(27), London E 331, Neck-Amphora, Nola, Eos and Kephalos; man
-32(28), London E 320, Neck-Amphora, , Eos and Kephalos; man
-33(29), London E 329, Neck-Amphora, Nola, youth and woman holding helmet spear shield; man
+22, Lucerne Market, Neck-Amphora, , Eos and Kephalos; youth, 433133
+23(19), New York 12.236.2, Neck-Amphora, , Eos and Tithonos; youth,
+24(20), New York 12.236.1, Neck-Amphora, , Athena and woman; youth,
+25(21), Berlin 2347, Neck-Amphora, Nola, Europa; man, 432981
+26(22), Boston 06.2447, Neck-Amphora, , Oedipus and the Sphinx; youth,
+27(23), Munich S.L. 474, Neck-Amphora, , Oedipus and the Sphinx; man,
+28(24), Dresden 308, Neck-Amphora, Nola, Zeus pursuing a woman; man, 432981
+29(25), Paris Paravey 43, Neck-Amphora, Nola, Zeus pursuing a woman; man, 432981
+30(26), Berlin 2346, Neck-Amphora, Nola, youth with spear pursuing a woman; man, 432981
+31(27), London E 331, Neck-Amphora, Nola, Eos and Kephalos; man, 432981
+32(28), London E 320, Neck-Amphora, , Eos and Kephalos; man,
+33(29), London E 329, Neck-Amphora, Nola, youth and woman holding helmet spear shield; man, 432981
 34, Newcastle Upon Tyne King's College, Neck-Amphora, , youth in chlamys with spear woman to left holding helmet and shiled; man to left with stick
-35(30), Munich 2336, Neck-Amphora, South Italy, youth and woman holding sword; man
-36, Basle Market, Neck-Amphora, , youth and old man; youth
+35(30), Munich 2336, Neck-Amphora, South Italy, youth and woman holding sword; man,
+36, Basle Market, Neck-Amphora, , youth and old man; youth,
